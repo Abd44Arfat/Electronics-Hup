@@ -3,6 +3,7 @@ Mastering Flutter E-commerce: Build a Full-Featured App
 App feature : 
 
 ✅ splash screen
+
 ✅ onboarding view
  
  
